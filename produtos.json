@@ -1,4 +1,18 @@
-[
+{
+  "configuracoes": {
+    "whatsapp": "5566999966728",
+    "instagram": "https://www.instagram.com/lojaflordeipeoficia",
+    "facebook": "https://www.facebook.com/people/Loja-Flor-de-Ip%C3%AA/61580595012362/#",
+    "tiktok": "https://www.tiktok.com/@lojaflordeipeoficia",
+    "maps": "https://www.google.com/maps?q=Flor+de+Ip%C3%AA+Sinop",
+    "endereco_curto": "Região Central — Sinop, MT",
+    "horarios": [
+      "Segunda a Sexta: 09h às 18h",
+      "Sábado: 09h às 13h"
+    ],
+    "abrangencia": "Atendemos Sinop e toda a região. Enviamos via Correios para todo o Brasil."
+  },
+  "produtos": [
     { 
         "id": 1, 
         "nome": "Vestido Midi Acinturado Linho Verde", 
@@ -13,4 +27,5 @@
         "tamanhos": "48, 50, 54", 
         "imagem": "https://raw.githubusercontent.com/jlribeiromt/flor-de-ipe-catalogo/main/imagens/conjunto-offwhite.webp" 
     }
-]
+  ]
+}
