@@ -1,0 +1,16 @@
+[
+    { 
+        "id": 1, 
+        "nome": "Vestido Midi Acinturado Linho Verde", 
+        "categoria": "Vestidos", 
+        "tamanhos": "46, 48, 50, 52", 
+        "imagem": "https://raw.githubusercontent.com/jlribeiromt/flor-de-ipe-catalogo/main/imagens/vestido-verde.webp" 
+    },
+    { 
+        "id": 2, 
+        "nome": "Conjunto Alfaiataria Atemporal Off White", 
+        "categoria": "Conjuntos", 
+        "tamanhos": "48, 50, 54", 
+        "imagem": "https://raw.githubusercontent.com/jlribeiromt/flor-de-ipe-catalogo/main/imagens/conjunto-offwhite.webp" 
+    }
+]
