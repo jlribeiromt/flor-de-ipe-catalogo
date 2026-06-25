@@ -3,29 +3,29 @@
     "whatsapp": "5566999966728",
     "instagram": "https://www.instagram.com/lojaflordeipeoficia",
     "facebook": "https://www.facebook.com/people/Loja-Flor-de-Ip%C3%AA/61580595012362/#",
-    "tiktok": "https://www.tiktok.com/@lojaflordeipeoficial",
-    "maps": "https://www.google.com/maps?q=Flor+de+Ip%C3%AA+Sinop",
+    "tiktok": "https://www.tiktok.com/@lojaflordeipeoficia",
+    "maps": "https://www.google.com/maps/place/Loja+Flor+de+Ip%C3%AA+-+Moda+Plus+Size+em+Sinop/@-11.8664817,-55.5029736,17z",
     "endereco_curto": "Região Central — Sinop, MT",
-    "horarios": [
-      "Segunda a Sexta: 09h às 18h",
-      "Sábado: 09h às 13h"
-    ],
+    "horarios": ["Segunda a Sexta: 09h às 18h", "Sábado: 09h às 13h"],
     "abrangencia": "Atendemos Sinop e toda a região. Enviamos via Correios para todo o Brasil."
   },
   "produtos": [
-    { 
-        "id": 1, 
-        "nome": "Vestido Midi Acinturado Linho Verde", 
-        "categoria": "Vestidos", 
-        "tamanhos": "46, 48, 50, 52", 
-        "imagem": "https://raw.githubusercontent.com/jlribeiromt/flor-de-ipe-catalogo/main/imagens/vestido-verde.webp" 
-    },
-    { 
-        "id": 2, 
-        "nome": "Conjunto Alfaiataria Atemporal Off White", 
-        "categoria": "Conjuntos", 
-        "tamanhos": "48, 50, 54", 
-        "imagem": "https://raw.githubusercontent.com/jlribeiromt/flor-de-ipe-catalogo/main/imagens/conjunto-offwhite.webp" 
-    }
+    {"id": 1, "nome": "Vestido Midi Floral", "categoria": "Vestidos", "imagem": "vitrine-01-vestido-midi-verde.webp", "descricao": "Fluido e sofisticado, ideal para eventos diurnos."},
+    {"id": 2, "nome": "Conjunto Alfaiataria Rosado", "categoria": "Conjuntos", "imagem": "vitrine-02-conjunto-colete-rosado.webp", "descricao": "Alfaiataria moderna com zíper e corte impecável."},
+    {"id": 3, "nome": "Longo Terracota", "categoria": "Vestidos", "imagem": "vitrine-03-vestido-longo-terracota.webp", "descricao": "Um longo que exala elegância com detalhes dourados."},
+    {"id": 4, "nome": "Camisa Xadrez Premium", "categoria": "Moda Elegante", "imagem": "vitrine-04-camisa-xadrez-bege.webp", "descricao": "Versatilidade e estilo para composições casuais."},
+    {"id": 5, "nome": "Vestido Branco Minimalista", "categoria": "Vestidos", "imagem": "vitrine-05-vestido-branco-recorte.webp", "descricao": "Design limpo com recorte estratégico no decote."},
+    {"id": 6, "nome": "Vestido Envelope Terracota", "categoria": "Vestidos", "imagem": "vitrine-06-vestido-envelope-terracota.webp", "descricao": "Modelagem envelope que valoriza a silhueta."},
+    {"id": 7, "nome": "Amarelo Solar com Cinto", "categoria": "Vestidos", "imagem": "vitrine-07-vestido-amarelo-cinto.webp", "descricao": "Cor vibrante com cinto de fivela marcante."},
+    {"id": 8, "nome": "Black Essential", "categoria": "Vestidos", "imagem": "vitrine-08-vestido-preto-basico.webp", "descricao": "O pretinho nada básico indispensável no closet."},
+    {"id": 9, "nome": "Marsala Fluido", "categoria": "Vestidos", "imagem": "vitrine-09-vestido-marsala-sem-manga.webp", "descricao": "Conforto absoluto com um caimento incrível."},
+    {"id": 10, "nome": "Conjunto Blazer & Short", "categoria": "Moda Elegante", "imagem": "vitrine-10-conjunto-blazer-short-verde.webp", "descricao": "O auge da alfaiataria em tom verde menta."},
+    {"id": 11, "nome": "Curto Marrom Estruturado", "categoria": "Vestidos", "imagem": "vitrine-11-vestido-curto-marrom.webp", "descricao": "Estrutura firme e visual moderno."},
+    {"id": 12, "nome": "Marsala Babados", "categoria": "Vestidos", "imagem": "vitrine-12-vestido-curto-marsala.webp", "descricao": "Detalhes em babado para um visual romântico."},
+    {"id": 13, "nome": "Midi Floral Preto", "categoria": "Vestidos", "imagem": "vitrine-13-vestido-midi-preto-floral.webp", "descricao": "Estampa delicada em fundo escuro."},
+    {"id": 14, "nome": "Curto Marrom Botões", "categoria": "Vestidos", "imagem": "vitrine-14-vestido-curto-marrom-botoes.webp", "descricao": "Design clássico com botões frontais."},
+    {"id": 15, "nome": "Terracota Evasê", "categoria": "Vestidos", "imagem": "vitrine-15-vestido-terracota-basico.webp", "descricao": "Saia evasê que traz movimento e leveza."},
+    {"id": 16, "nome": "Midi Verde Faixa", "categoria": "Vestidos", "imagem": "vitrine-16-vestido-midi-verde-faixa.webp", "descricao": "Ajuste na cintura para um contorno perfeito."},
+    {"id": 17, "nome": "Xadrez Vermelho", "categoria": "Moda Elegante", "imagem": "vitrine-17-camisa-xadrez-vermelha.webp", "descricao": "Impacto e personalidade na sua composição."}
   ]
 }
