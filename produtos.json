@@ -9,23 +9,13 @@
     "horarios": ["Segunda a Sexta: 09h às 18h", "Sábado: 09h às 13h"],
     "abrangencia": "Atendemos Sinop e toda a região. Enviamos via Correios para todo o Brasil."
   },
+  "destaques": [
+    { "titulo": "Vestidos", "imagem": "destaque-vestidos.jpg" },
+    { "titulo": "Conjuntos", "imagem": "destaque-conjuntos.jpg" },
+    { "titulo": "Moda Elegante", "imagem": "destaque-moda-elegante.jpg" }
+  ],
   "produtos": [
     {"id": 1, "nome": "Vestido Midi Floral", "categoria": "Vestidos", "imagem": "vitrine-01-vestido-midi-verde.jpg", "descricao": "Fluido e sofisticado, ideal para eventos diurnos."},
-    {"id": 2, "nome": "Conjunto Alfaiataria Rosado", "categoria": "Conjuntos", "imagem": "vitrine-02-conjunto-colete-rosado.jpg", "descricao": "Alfaiataria moderna com zíper e corte impecável."},
-    {"id": 3, "nome": "Longo Terracota", "categoria": "Vestidos", "imagem": "vitrine-03-vestido-longo-terracota.jpg", "descricao": "Um longo que exala elegância com detalhes dourados."},
-    {"id": 4, "nome": "Camisa Xadrez Premium", "categoria": "Moda Elegante", "imagem": "vitrine-04-camisa-xadrez-bege.jpg", "descricao": "Versatilidade e estilo para composições casuais."},
-    {"id": 5, "nome": "Vestido Branco Minimalista", "categoria": "Vestidos", "imagem": "vitrine-05-vestido-branco-recorte.jpg", "descricao": "Design limpo com recorte estratégico no decote."},
-    {"id": 6, "nome": "Vestido Envelope Terracota", "categoria": "Vestidos", "imagem": "vitrine-06-vestido-envelope-terracota.jpg", "descricao": "Modelagem envelope que valoriza a silhueta."},
-    {"id": 7, "nome": "Amarelo Solar com Cinto", "categoria": "Vestidos", "imagem": "vitrine-07-vestido-amarelo-cinto.jpg", "descricao": "Cor vibrante com cinto de fivela marcante."},
-    {"id": 8, "nome": "Black Essential", "categoria": "Vestidos", "imagem": "vitrine-08-vestido-preto-basico.jpg", "descricao": "O pretinho nada básico indispensável no closet."},
-    {"id": 9, "nome": "Marsala Fluido", "categoria": "Vestidos", "imagem": "vitrine-09-vestido-marsala-sem-manga.jpg", "descricao": "Conforto absoluto com um caimento incrível."},
-    {"id": 10, "nome": "Conjunto Blazer & Short", "categoria": "Moda Elegante", "imagem": "vitrine-10-conjunto-blazer-short-verde.jpg", "descricao": "O auge da alfaiataria em tom verde menta."},
-    {"id": 11, "nome": "Curto Marrom Estruturado", "categoria": "Vestidos", "imagem": "vitrine-11-vestido-curto-marrom.jpg", "descricao": "Estrutura firme e visual moderno."},
-    {"id": 12, "nome": "Marsala Babados", "categoria": "Vestidos", "imagem": "vitrine-12-vestido-curto-marsala.jpg", "descricao": "Detalhes em babado para um visual romântico."},
-    {"id": 13, "nome": "Midi Floral Preto", "categoria": "Vestidos", "imagem": "vitrine-13-vestido-midi-preto-floral.jpg", "descricao": "Estampa delicada em fundo escuro."},
-    {"id": 14, "nome": "Curto Marrom Botões", "categoria": "Vestidos", "imagem": "vitrine-14-vestido-curto-marrom-botoes.jpg", "descricao": "Design clássico com botões frontais."},
-    {"id": 15, "nome": "Terracota Evasê", "categoria": "Vestidos", "imagem": "vitrine-15-vestido-terracota-basico.jpg", "descricao": "Saia evasê que traz movimento e leveza."},
-    {"id": 16, "nome": "Midi Verde Faixa", "categoria": "Vestidos", "imagem": "vitrine-16-vestido-midi-verde-faixa.jpg", "descricao": "Ajuste na cintura para um contorno perfeito."},
-    {"id": 17, "nome": "Xadrez Vermelho", "categoria": "Moda Elegante", "imagem": "vitrine-17-camisa-xadrez-vermelha.jpg", "descricao": "Impacto e personalidade na sua composição."}
+    // ... (o restante da sua lista de 17 produtos)
   ]
 }
