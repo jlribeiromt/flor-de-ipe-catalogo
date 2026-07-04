@@ -28,6 +28,6 @@
     {"id": 12, "nome": "Vestido Midi Com Estampas", "categoria": "Vestidos", "imagem": "vitrine-12-vestido-curto-marsala.jpg", "descricao": "Detalhes em estampas e modeloagem moderna.", "tamanhos": "G, GG, G1, G2, G3"},
     {"id": 14, "nome": "Trijunto Com Blazer Moderno", "categoria": "Vestidos", "imagem": "vitrine-14-vestido-curto-marrom-botoes.jpg", "descricao": "Clássico.", "tamanhos": "G, GG, G1, G2, G3"},
     {"id": 16, "nome": "Vestido Estilo Camponesa Amarelo", "categoria": "Vestidos", "imagem": "vitrine-16-vestido-midi-verde-faixa.jpg", "descricao": "Perfeito.", "tamanhos": "G, GG, G1, G2, G3"},
-    {"id": 17, "nome": "Vestidp Longo Camponesa Floral", "categoria": "Moda Elegante", "imagem": "vitrine-17-camisa-xadrez-vermelha.jpg", "descricao": "Muita personalidade.", "tamanhos": "G, GG, G1, G2, G3"}
+    {"id": 17, "nome": "Vestido Longo Camponesa Floral", "categoria": "Moda Elegante", "imagem": "vitrine-17-camisa-xadrez-vermelha.jpg", "descricao": "Muita personalidade.", "tamanhos": "G, GG, G1, G2, G3"}
   ]
 }
