@@ -23,7 +23,7 @@
     {"id": 7, "nome": "Conjunto Alfaiataria, Combinação de Blusa e Saia Midi", "categoria": "Vestidos", "imagem": "vitrine-07-vestido-amarelo-cinto.jpg", "descricao": "Combinação sofisticada e cores atemporais.", "tamanhos": "G, GG, G1, G2, G3"},
     {"id": 8, "nome": "Vestido Black Essential", "categoria": "Vestidos", "imagem": "vitrine-08-vestido-preto-basico.jpg", "descricao": "O pretinho básico.", "tamanhos": "G, GG, G1, G2, G3"},
     {"id": 9, "nome": "Vestido Floral Com Fenda Discreta", "categoria": "Vestidos", "imagem": "vitrine-09-vestido-marsala-sem-manga.jpg", "descricao": "Conforto absoluto.", "tamanhos": "G, GG, G1, G2, G3"},
-    {"id": 10, "nome": "Macaquinho Em Corino & Short Saia", "categoria": "Moda Elegante", "imagem": "vitrine-10-conjunto-blazer-short-verde.jpg", "descricao": "Tendência e sofisticação.", "tamanhos": "G, GG, G1, G2, G3""},
+    {"id": 10, "nome": "Macaquinho Em Corino & Short Saia", "categoria": "Moda Elegante", "imagem": "vitrine-10-conjunto-blazer-short-verde.jpg", "descricao": "Tendência e sofisticação.", "tamanhos": "G, GG, G1, G2, G3"},
     {"id": 11, "nome": "Macaquinho Estruturado Com Manga Comprida", "categoria": "Vestidos", "imagem": "vitrine-11-vestido-curto-marrom.jpg", "descricao": "Visual moderno.", "tamanhos": "G, GG, G1, G2, G3"},
     {"id": 12, "nome": "Vestido Midi Com Estampas", "categoria": "Vestidos", "imagem": "vitrine-12-vestido-curto-marsala.jpg", "descricao": "Detalhes em estampas e modeloagem moderna.", "tamanhos": "G, GG, G1, G2, G3"},
     {"id": 14, "nome": "Trijunto Com Blazer Moderno", "categoria": "Vestidos", "imagem": "vitrine-14-vestido-curto-marrom-botoes.jpg", "descricao": "Clássico.", "tamanhos": "G, GG, G1, G2, G3"},
