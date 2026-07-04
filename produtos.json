@@ -1,12 +1,12 @@
 {
   "configuracoes": {
     "whatsapp": "5566999966728",
-    "instagram": "https://www.instagram.com/lojaflordeipeoficia",
+    "instagram": "https://www.instagram.com/lojaflordeipeoficial",
     "facebook": "https://www.facebook.com/people/Loja-Flor-de-Ip%C3%AA/61580595012362/#",
-    "tiktok": "https://www.tiktok.com/@lojaflordeipeoficia",
+    "tiktok": "https://www.tiktok.com/@lojaflordeipeoficial",
     "maps": "https://www.google.com/maps/place/Loja+Flor+de+Ip%C3%AA+-+Moda+Plus+Size+em+Sinop/@-11.8664817,-55.5029736,17z",
     "endereco_curto": "Região Central — Sinop, MT",
-    "horarios": ["Segunda a Sexta: 09h às 18h", "Sábado: 09h às 13h"],
+    "horarios": ["Segunda a Sexta: 09h às 11h30 • 13h30 às 17h30", "Sábado: 08h às 12h • 13h às 15h"],
     "abrangencia": "Atendemos Sinop e toda a região. Enviamos via Correios para todo o Brasil."
   },
   "destaques": [
@@ -15,22 +15,19 @@
     { "titulo": "Moda Elegante", "imagem": "destaque-moda-elegante.jpg" }
   ],
   "produtos": [
-    {"id": 1, "nome": "Vestido Midi Floral", "categoria": "Vestidos", "imagem": "vitrine-01-vestido-midi-verde.jpg", "descricao": "Fluido e sofisticado.", "tamanhos": "M, G, GG"},
-    {"id": 2, "nome": "Conjunto Alfaiataria Rosado", "categoria": "Conjuntos", "imagem": "vitrine-02-conjunto-colete-rosado.jpg", "descricao": "Alfaiataria moderna.", "tamanhos": "G, GG"},
-    {"id": 3, "nome": "Longo Terracota", "categoria": "Vestidos", "imagem": "vitrine-03-vestido-longo-terracota.jpg", "descricao": "Elegância com detalhes dourados.", "tamanhos": "M, G"},
-    {"id": 4, "nome": "Camisa Xadrez Premium", "categoria": "Moda Elegante", "imagem": "vitrine-04-camisa-xadrez-bege.jpg", "descricao": "Versatilidade e estilo.", "tamanhos": "P, M, G"},
-    {"id": 5, "nome": "Vestido Branco Minimalista", "categoria": "Vestidos", "imagem": "vitrine-05-vestido-branco-recorte.jpg", "descricao": "Design limpo.", "tamanhos": "M, G"},
-    {"id": 6, "nome": "Vestido Envelope Terracota", "categoria": "Vestidos", "imagem": "vitrine-06-vestido-envelope-terracota.jpg", "descricao": "Valoriza a silhueta.", "tamanhos": "M, G, GG"},
-    {"id": 7, "nome": "Amarelo Solar com Cinto", "categoria": "Vestidos", "imagem": "vitrine-07-vestido-amarelo-cinto.jpg", "descricao": "Cor vibrante.", "tamanhos": "G, GG"},
-    {"id": 8, "nome": "Black Essential", "categoria": "Vestidos", "imagem": "vitrine-08-vestido-preto-basico.jpg", "descricao": "O pretinho básico.", "tamanhos": "P, M, G, GG"},
-    {"id": 9, "nome": "Marsala Fluido", "categoria": "Vestidos", "imagem": "vitrine-09-vestido-marsala-sem-manga.jpg", "descricao": "Conforto absoluto.", "tamanhos": "M, G"},
-    {"id": 10, "nome": "Conjunto Blazer & Short", "categoria": "Moda Elegante", "imagem": "vitrine-10-conjunto-blazer-short-verde.jpg", "descricao": "Alfaiataria verde menta.", "tamanhos": "G, GG"},
-    {"id": 11, "nome": "Curto Marrom Estruturado", "categoria": "Vestidos", "imagem": "vitrine-11-vestido-curto-marrom.jpg", "descricao": "Visual moderno.", "tamanhos": "M, G"},
-    {"id": 12, "nome": "Marsala Babados", "categoria": "Vestidos", "imagem": "vitrine-12-vestido-curto-marsala.jpg", "descricao": "Detalhes em babado.", "tamanhos": "M, G"},
-    {"id": 13, "nome": "Midi Floral Preto", "categoria": "Vestidos", "imagem": "vitrine-13-vestido-midi-preto-floral.jpg", "descricao": "Estampa delicada.", "tamanhos": "P, M, G, GG"},
-    {"id": 14, "nome": "Curto Marrom Botões", "categoria": "Vestidos", "imagem": "vitrine-14-vestido-curto-marrom-botoes.jpg", "descricao": "Clássico.", "tamanhos": "M, G"},
-    {"id": 15, "nome": "Terracota Evasê", "categoria": "Vestidos", "imagem": "vitrine-15-vestido-terracota-basico.jpg", "descricao": "Movimento e leveza.", "tamanhos": "G, GG"},
-    {"id": 16, "nome": "Midi Verde Faixa", "categoria": "Vestidos", "imagem": "vitrine-16-vestido-midi-verde-faixa.jpg", "descricao": "Perfeito.", "tamanhos": "M, G"},
-    {"id": 17, "nome": "Xadrez Vermelho", "categoria": "Moda Elegante", "imagem": "vitrine-17-camisa-xadrez-vermelha.jpg", "descricao": "Muita personalidade.", "tamanhos": "P, M, G"}
+    {"id": 1, "nome": "Vestido Marron", "categoria": "Vestidos", "imagem": "vitrine-01-vestido-midi-verde.jpg", "descricao": "Fluido e sofisticado.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 2, "nome": "Conjunto Alfaiataria Rosado", "categoria": "Conjuntos", "imagem": "vitrine-02-conjunto-colete-rosado.jpg", "descricao": "Alfaiataria moderna.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 3, "nome": "Vestido Com Babados Marron", "categoria": "Vestidos", "imagem": "vitrine-03-vestido-longo-terracota.jpg", "descricao": "Elegância com detalhes no babado.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 4, "nome": "Camisa Xadrez Premium & Short Saia Em Corino", "categoria": "Moda Elegante", "imagem": "vitrine-04-camisa-xadrez-bege.jpg", "descricao": "Versatilidade e estilo.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 5, "nome": "Vestido Transpassado Terracota", "categoria": "Vestidos", "imagem": "vitrine-05-vestido-branco-recorte.jpg", "descricao": "Design que modela o corpo e favorece as curvas.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 7, "nome": "Conjunto Alfaiataria, Combinação de Blusa e Saia Midi", "categoria": "Vestidos", "imagem": "vitrine-07-vestido-amarelo-cinto.jpg", "descricao": "Combinação sofisticada e cores atemporais.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 8, "nome": "Vestido Black Essential", "categoria": "Vestidos", "imagem": "vitrine-08-vestido-preto-basico.jpg", "descricao": "O pretinho básico.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 9, "nome": "Vestido Floral Com Fenda Discreta", "categoria": "Vestidos", "imagem": "vitrine-09-vestido-marsala-sem-manga.jpg", "descricao": "Conforto absoluto.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 10, "nome": "Macaquinho Em Corino & Short Saia", "categoria": "Moda Elegante", "imagem": "vitrine-10-conjunto-blazer-short-verde.jpg", "descricao": "Tendência e sofisticação.", "tamanhos": "G, GG, G1, G2, G3""},
+    {"id": 11, "nome": "Macaquinho Estruturado Com Manga Comprida", "categoria": "Vestidos", "imagem": "vitrine-11-vestido-curto-marrom.jpg", "descricao": "Visual moderno.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 12, "nome": "Vestido Midi Com Estampas", "categoria": "Vestidos", "imagem": "vitrine-12-vestido-curto-marsala.jpg", "descricao": "Detalhes em estampas e modeloagem moderna.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 14, "nome": "Trijunto Com Blazer Moderno", "categoria": "Vestidos", "imagem": "vitrine-14-vestido-curto-marrom-botoes.jpg", "descricao": "Clássico.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 16, "nome": "Vestido Estilo Camponesa Amarelo", "categoria": "Vestidos", "imagem": "vitrine-16-vestido-midi-verde-faixa.jpg", "descricao": "Perfeito.", "tamanhos": "G, GG, G1, G2, G3"},
+    {"id": 17, "nome": "Vestidp Longo Camponesa Floral", "categoria": "Moda Elegante", "imagem": "vitrine-17-camisa-xadrez-vermelha.jpg", "descricao": "Muita personalidade.", "tamanhos": "G, GG, G1, G2, G3"}
   ]
 }
